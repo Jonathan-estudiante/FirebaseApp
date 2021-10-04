@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997414653319",
+    "project_id": "proyectolistcontact",
+    "storage_bucket": "proyectolistcontact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997414653319:android:785ef29da9614c6e791722",
+        "android_client_info": {
+          "package_name": "ec.edu.tecnologicoloja.contactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997414653319-bt4096pc0ocol2e3a55dfo3dmml26c1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec.edu.tecnologicoloja.contactlist",
+            "certificate_hash": "abbcc0a1e739c0a5acb4cf8bcb6aadc882bbd8c0"
+          }
+        },
+        {
+          "client_id": "997414653319-rlbjs8f6uqrocjlpmk5jbhvb7dh5ncsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQPc96UTbcaySGSqOvZ2idQXElMYjS0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997414653319-rlbjs8f6uqrocjlpmk5jbhvb7dh5ncsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

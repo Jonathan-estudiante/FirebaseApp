@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="foto">Foto</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="numero">Número</string>
+    <string name="nombre">Nombre</string>
+    <string name="contacto_nuevo">Nuevo Contacto</string>
+    <string name="correo">Correo</string>
+    <string name="cumplea_os">Cumpleaños</string>
+    <string name="g_nero">Género</string>
+    <string name="pa_s">País</string>
+    <string name="eliminar_todo">Eliminar todo</string>
+    <string name="nuevo">Nuevo</string>
+
+</resources>
